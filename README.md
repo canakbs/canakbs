@@ -5,7 +5,7 @@
   
   **Computer Engineering Student · Data Science & AI**
   
-  I'm a 2nd year Computer Engineering student at Akdeniz University.
+  I'm a 3rd year Computer Engineering student at Akdeniz University.
   I focus on **machine learning**, **NLP**, and **generative AI**.
   I also lead the Data Science Community at my university and mentor students at T3 Foundation.
 
