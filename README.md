@@ -18,7 +18,9 @@
 - 🎓 3rd year Computer Engineering student at **Akdeniz University** — GPA: 3.18 / 4.0
 - 🤖 I focus on **machine learning**, **NLP**, **computer vision**, and **generative AI**
 - 👥 President of **Akdeniz University Data Science Community** — organized 23+ events
-- 🏫 Teaching Assistant & Mentor at **T3 Foundation** — mentoring Teknofest students in AI and software
+- Data Scientist Intern at **Lotus AI**
+- Teaching Assistant & Mentor at **T3 Foundation** 
+- Social Media Director at **Akdeniz University Career Center**
 - 🌱 Currently looking for an **internship in AI / Machine Learning**
 - 📍 Istanbul, Turkey
 
