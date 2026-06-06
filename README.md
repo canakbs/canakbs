@@ -21,7 +21,6 @@
 - Data Scientist Intern at **Lotus AI**
 - Teaching Assistant & Mentor at **T3 Foundation** 
 - Social Media Director at **Akdeniz University Career Center**
-- 🌱 Currently looking for an **internship in AI / Machine Learning**
 - 📍 Istanbul, Turkey
 
 ---
