@@ -15,7 +15,7 @@
 
 ## About Me
 
-- 🎓 3rd year Computer Engineering student at **Akdeniz University** — GPA: 3.06 / 4.0
+- 🎓 3rd year Computer Engineering student at **Akdeniz University** — GPA: 3.18 / 4.0
 - 🤖 I focus on **machine learning**, **NLP**, **computer vision**, and **generative AI**
 - 👥 President of **Akdeniz University Data Science Community** — organized 23+ events
 - 🏫 Teaching Assistant & Mentor at **T3 Foundation** — mentoring Teknofest students in AI and software
@@ -85,18 +85,6 @@ CNN, GAN, transfer learning, and real-time traffic detection with YOLO — from 
 
 ---
 
-## Certifications
-
-| Issuer | Certificate |
-|---|---|
-| Akbank | Generative AI Bootcamp |
-| Udemy | Machine Learning with Python |
-| Republic of Türkiye — Presidency of Defence Industries | Defence Industry 101 |
-| Optiwisdom | NLP & LLM Specialization |
-| Udemy | AI Automation |
-| BTK | Deep Learning & NLP |
-
----
 
 ## Let's Connect
 
