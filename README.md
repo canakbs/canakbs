@@ -15,9 +15,9 @@
 
 - 🎓 3rd year Computer Engineering student at **Akdeniz University** — GPA: 3.18 / 4.0
 - 🤖 I focus on **machine learning**, **NLP**, **computer vision**, and **generative AI**
-- 👥 President of **Akdeniz University Data Science Community** — organized 23+ events
+- 👥 President of **Akdeniz University Data Science Community** — organized 30+ events
 - Previously Data Scientist Intern at **Lotus AI**
-- Teaching Assistant & Mentor at **T3 Foundation** 
+- Teaching Assistant & Mentor at **T3 Foundation**
 - Social Media Director at **Akdeniz University Career Center**
 - 📍 Konyaaltı, Antalya, Turkey
 
@@ -70,7 +70,7 @@ Gives personalized career advice based on the user's skills and goals.
 `Python` `Gemini API` `Pinecone` `RAG` `Flask`
 
 ### 📊 Excel Pro Analyzer *(in progress)*
-An AI-powered BI tool that reads uploaded Excel files, generates charts, and makes predictions using **TabFPN**.
+An AI-powered BI tool that reads uploaded Excel files, generates charts, and makes predictions.
 `TypeScript` `OpenAI API` `TabFPN` `React`
 
 ### 🧠 [NLP with Deep Learning](https://github.com/canakbs/NLP-with-Deep-Learning)
